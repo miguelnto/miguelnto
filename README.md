@@ -1,4 +1,15 @@
-## Hi there 👋
+<div align="center
+## miguelnto - Desenvolver Full Stack
+
+![cats-and-computers](about-image.gif)
+
+</div>
+
+No momento sou um Desenvolvedor Full Stack Freelancer procurando novas oportunidades. Aprendo rápido e estou sempre em busca de expandir meus conhecimentos e habilidades. Trabalho em equipe e estou animado para trabalhar com outras pessoas para criar aplicações incríveis.
+
+Estou aprendendo...
+- 📱 Desenvolvimento Mobile
+- 🦀 Rust
 
 <!--
 **miguelnto/miguelnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
