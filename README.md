@@ -1,4 +1,4 @@
-<div align="center
+<div align="center>
 ## miguelnto - Desenvolver Full Stack
 
 ![cats-and-computers](about-image.gif)
