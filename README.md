@@ -1,6 +1,6 @@
 <div align="center">
 
-## Miguel Neto - Desenvolvedor Full Stack <img src="https://img1.picmix.com/output/stamp/normal/1/6/5/0/1930561_979af.gif" width="35" height="35" />
+## Miguel Neto - Desenvolvedor Full Stack <img src="https://img1.picmix.com/output/stamp/normal/1/6/5/0/1930561_979af.gif" width="45" height="45" />
 
 ![cats-and-computers](about-image.gif)
 
